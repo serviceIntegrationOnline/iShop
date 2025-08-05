@@ -1,0 +1,17 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "service",
+    "user": "root",
+    "password": "admin"
+  },
+  "http": {
+    "port": 8080
+  },
+  "clientApi": {
+    "host": "localhost",
+    "port": 8888,
+    "path": "/vehicles"
+  }
+}

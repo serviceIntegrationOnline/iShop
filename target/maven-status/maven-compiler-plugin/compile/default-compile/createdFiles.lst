@@ -1,0 +1,13 @@
+com\example\service\XmlServiceImpl.class
+com\example\Configuration\ErrorHandler.class
+com\example\controller\XmlController.class
+com\example\Configuration\DatabaseConfig.class
+com\example\Configuration\ConfigLoader.class
+com\example\MainVerticle.class
+com\example\LauncherApp.class
+com\example\Configuration\AppRouter.class
+com\example\Configuration\DependencyProvider.class
+com\example\service\XmlService.class
+com\example\service\ClientService.class
+com\example\DbHealthCheckVerticle.class
+com\example\service\ClientServiceImpl.class
